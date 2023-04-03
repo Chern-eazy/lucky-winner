@@ -1,0 +1,11 @@
+{
+  "name": "my-awesome-package",
+  "version": "1.0.0",
+  "author": "Cameron Chernoff <subscriptionchern@gmail.com>",
+  "description": "Website for CloudFlare interview",
+  "main": "home-image.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
